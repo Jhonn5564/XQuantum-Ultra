@@ -1,2 +1,2 @@
-# XQuantum-Ultra
+# XQuantum-Ultra: Definitive
 This is the most powerful and up-to-date version of XQuantum.
