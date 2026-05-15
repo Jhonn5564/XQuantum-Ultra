@@ -1,2 +1,4 @@
 # XQuantum-Ultra: Definitive
-This is the most powerful and up-to-date version of XQuantum.
+Warning: This version contains content too powerful to be called "just any script."
+
+This version was designed and built to be very powerful.
